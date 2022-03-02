@@ -40,6 +40,9 @@
     <framework src="MessageUI.framework"/>
     <framework src="WebKit.framework"/>
 
+     <header-file src="OSWKWebViewEngine+Dynatrace.h"/>
+    <source-file src="OSWKWebViewEngine+Dynatrace.m"/>
+    
   </platform>
 
   <platform name="android">
